@@ -1,6 +1,7 @@
 # dungeon-of-doom
 Text based game where the aim is to collect gold on the map before the hunter finds you.
 - Must be run in a console
+  - GameLogic.java contains main()
 Game instructions:
 - You can use several commands:
   - LOOK: prints the players nearby surroundings
